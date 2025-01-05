@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/akqeel-nawaz-90b86ab3/) | [GitHub](https://github.com/akqeelnawas) | [Blog](https://medium.com/@akqeel) | [Email](mailto:akqeelnawaz@windowslive.com)
 
-Passion mobile engineer with over 8 years of experience in the industry at leading ride-hailing and PropTech startups. Key highlights include building and launching successful products from the ground-up, that have scaled to over 1 million users in less than 4 years.
+Passionate mobile engineer with over 8 years of experience in the tech industry at leading ride-hailing and PropTech startups. Key highlights include building and launching successful products from the ground-up, that have scaled to over 1 million users in less than 4 years.
 
 ## **Technical Skills**
 
@@ -12,7 +12,7 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 
 **[99 Group, Singapore](https://www.99.co/)**  • *July 2019 – April 2024*
 
-### **Android/iOS Engineer**
+### **Android / iOS Engineer**
 
 - Feature development, support fixes and conducting Android interviews.
 - Application architecture, repository setup, build types, git
