@@ -10,6 +10,12 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 
 ## **Professional Experience**
 
+**[Aksoft Studios, Sri Lanka](https://aksoftstudios.wixsite.com/welcome)**  • *April 2024 – Present*
+
+### **Android / iOS Engineer**
+
+- End-to-end app development, from ideation to deployment.
+
 **[99 Group, Singapore](https://www.99.co/)**  • *July 2019 – April 2024*
 
 ### **Android / iOS Engineer**
