@@ -10,19 +10,19 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 
 ## **Professional Experience**
 
-**[Gapstars | Brompton, Sri Lanka](https://www.brompton.com/)**  • *January 2025 – Present*
+**[Gapstars | Brompton, United Kingdom](https://www.brompton.com/)**  • *January 2025 – Present* • *Remote*
 
 #### **Android / iOS / React Native Engineer**
 
 - Feature development, support fixes and development process / tooling improvements.
 
-**[Aksoft Studios, Sri Lanka](https://aksoftstudios.wixsite.com/welcome)**  • *April 2024 – January 2025*
+**[Aksoft Studios, Sri Lanka](https://aksoftstudios.wixsite.com/welcome)**  • *April 2024 – January 2025* • *On-site*
 
 #### **Android / iOS Engineer**
 
 - End-to-end app development, from ideation to deployment.
 
-**[99 Group, Singapore](https://www.99.co/)**  • *July 2019 – April 2024*
+**[99 Group, Singapore](https://www.99.co/)**  • *July 2019 – April 2024* • *On-site*
 
 #### **Android / iOS Engineer**
 
@@ -30,7 +30,7 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 - Application architecture, repository setup, build types, git
   branching rules, app deployment, monitoring, and tracking.
 
-**[PickMe, Sri Lanka](https://pickme.lk/)** • *May 2015 - July 2019*
+**[PickMe, Sri Lanka](https://pickme.lk/)** • *May 2015 - July 2019* • *On-site*
 
 #### **Android Engineer**
 
