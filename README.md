@@ -10,7 +10,7 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 
 ## **Professional Experience**
 
-**[Gapstars | Brompton, United Kingdom](https://www.brompton.com/)**  • *January 2025 – Present* • *Remote*
+**[Gapstars](https://gapstars.net/) | [Brompton, United Kingdom](https://www.brompton.com/)**  • *January 2025 – Present* • *Remote*
 
 #### **Android / iOS / React Native Engineer**
 
