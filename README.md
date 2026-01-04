@@ -10,15 +10,16 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 
 ## **Professional Experience**
 
-**[Gapstars | Brompton, Sri Lanka](https://www.brompton.com/)**  • *January 2025 – Present*
+**[Gapstars](https://gapstars.net/) | [Brompton, United Kingdom](https://www.brompton.com/)**  • *January 2025 – Present* • *Remote*
 
-#### **Android / iOS / React Native Engineer**
+#### **Android / iOS**
 
 - Lift and shift mobile apps from external agencies to the in-house development team.
 - Feature development, maintainence and development process / tooling improvements.
 - Over-the-air (Low-Energy Bluetooth) bike firmware update process, bug fixes and logging improvements.
+- Feature development, support fixes and development process / tooling improvements.
 
-**[99 Group, Singapore](https://www.99.co/)**  • *July 2019 – April 2024*
+**[99 Group, Singapore](https://www.99.co/)**  • *July 2019 – April 2024* • *On-site*
 
 #### **Android / iOS Engineer**
 
@@ -27,7 +28,7 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 - Application architecture, repository setup, build types, git
   branching rules, app deployment, monitoring, and tracking.
 
-**[PickMe, Sri Lanka](https://pickme.lk/)** • *May 2015 - July 2019*
+**[PickMe, Sri Lanka](https://pickme.lk/)** • *May 2015 - July 2019* • *On-site*
 
 #### **Android Engineer**
 
@@ -41,4 +42,9 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 #### **Android / iOS Engineer**
 
 - End-to-end app development, from ideation to deployment.
+
+## **LeetCode**
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/akqeelnawaz1908?theme=light&font=Ubuntu)
+
 
