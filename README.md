@@ -45,6 +45,6 @@ Kotlin, Java, Swift, Software Architecture, Design Patterns, App Modularization,
 
 ## **LeetCode**
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/akqeelnawaz1908?theme=light&font=Ubuntu)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/akqeelnawaz1908?theme=light&font=Ubuntu&ext=heatmap)
 
-
+[View Profile](https://leetcode.com/u/akqeelnawaz1908/)
